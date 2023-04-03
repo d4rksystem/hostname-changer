@@ -6,6 +6,9 @@ A quick and dirty script to change the local username, hostname, and DNS name (d
 C:\> hostname-changer.ps1
 
 CurrentLocalUserName: User
+
 NewLocalUserName: NewUser
+
 NewHostname: workstation
+
 NewDomainName: malware.lab
